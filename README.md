@@ -1,6 +1,6 @@
 ## Obstruction Sensor
 
-### Week 5 -
+### Week 5 -[Submitted Purchases](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases.docx)
 
 ### Week 4 - [Submitted Budget](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Budget.xlsx)
 
