@@ -1,5 +1,3 @@
-# Aldous Mendoza
-
 ## Obstruction Sensor
 
 ### Week 5 -
