@@ -3,7 +3,11 @@
 ### Week 8 - Breadboard
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/boardConnect.jpg?raw=true)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/piConnect.jpg?raw=true)  
-![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/wholeConnect.jpg)
+![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/wholeConnect.jpg?raw=true)  
+The wiring is correct as I tested other's sensors with i2cdetect -y 1, and their devices showed up.
+Mine does not show up, I already checked the soldering with the microscope and do not see any issues.
+I will go and ask help from Kelly and Vlad tomorrow as the lab is closed for today.
+If the issue persists after tomorrow, I will purchase a new sensor from Adafruit, a company well trusted.
 
 ### Week 7 - Purchased Parts
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Display.jpg?raw=true)  
