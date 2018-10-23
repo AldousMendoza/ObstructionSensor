@@ -6,6 +6,8 @@
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/wholeConnect.jpg?raw=true)  
 The wiring is correct as I tested other's sensors with i2cdetect -y 1, and their devices showed up.
 Mine does not show up, I already checked the soldering with the microscope and do not see any issues.
+I also checked the voltage on the multimeter and oscilloscope, based on my research, the voltage should spike when using the i2cdetect command.
+It is having a constant voltage, which for me, suggests that the board is defective.
 I will go and ask help from Kelly and Vlad tomorrow as the lab is closed for today.
 If the issue persists after tomorrow, I will purchase a new sensor from Adafruit, a company well trusted.
 
