@@ -13,7 +13,7 @@ After removing they smudge, being as careful as possible as the sensor is very s
 Below is the screenshot of the default address it has (0x29).
 I still have to change it to 0x24, which will require me more time as it will be changed thru software, rather than hardware.
 I am just glad that I did not need to buy another sensor as the shipping fee on Adafruit is expensive.
-Shoutout to Vlad and Kelly as they really saved me here.
+Shout-outs to Vlad and Kelly as they really saved me here.
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/defaultAddress.jpg?raw=true)
 
 
