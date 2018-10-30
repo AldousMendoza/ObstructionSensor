@@ -1,5 +1,14 @@
 # Obstruction Sensor
 
+## Week 9 - PCB Creation
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch_pcb.png?raw=true)  
+
+Connection has been changed  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/circuit.jpg?raw=true)  
+
+New Display purchased (SSD1306)  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/ssd1306.jpg?raw=true)
+
 ## Week 8 - Breadboard
 
 ### Resolution
