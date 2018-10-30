@@ -1,6 +1,12 @@
 # Obstruction Sensor
 
 ## Week 9 - PCB Creation
+
+### Status Report
+Financial Status: Budget has been surpassed.  
+Schedule: The project is on track.  
+Programming has already been started, trying to figure out how to change the I2C address of the VL53L0X to 24 (default 29) using software.  
+
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch_pcb.png?raw=true)  
 
 Connection has been changed  
