@@ -1,5 +1,5 @@
 ## Week 9 - [PCB Creation](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch.fzz)
-Gerber file has been sent to prototypelab.humber.ca
+Gerber file has been sent to prototypelab@humber.ca
 
 ### Status Report
 Financial Status: Budget has been surpassed.  
