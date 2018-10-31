@@ -8,7 +8,7 @@ Programming has already been started, trying to figure out how to change the I2C
 
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch_pcb.png?raw=true)  
 
-UPDATE:
+### UPDATE:  
 i2c address table:  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/i2cNEW.jpg?raw=true)  
 
