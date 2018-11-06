@@ -15,7 +15,7 @@ Gerber file has been sent to prototypelab@humber.ca
 
 ### Status Report
 Financial Status: Budget has been surpassed.  
-Schedule: The project is on track.  
+Schedule: The project is on [schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp).  
 Programming has already been started, trying to figure out how to change the I2C address of the VL53L0X to 24 (default 29) using software.  
 
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch_pcb.png?raw=true)  
