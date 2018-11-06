@@ -1,3 +1,15 @@
+## Week 10 - PCB Assembly
+Unfortunately the item that I purchased was a crimp pin header toolkit.
+It was not the part I needed.
+I will not count this with my purchased items as I won't be needing this as of yet.
+I will be purchasing the socket pin headers sometime this week.
+On a sidenote, I was able to acquire a 40x2 socket pin header, and soldered it on my board.
+I am now slightly behind schedule because of this mishap.
+
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/PCB%20semi-soldered.jpg?raw=true)  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/f-f%20crimp%20header.jpg?raw=true)  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/m-m%20crimp%20header.jpg?raw=true)
+
 ## Week 9 - [PCB Creation](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch.fzz)
 Gerber file has been sent to prototypelab@humber.ca
 
