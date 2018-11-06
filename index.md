@@ -3,7 +3,7 @@ Unfortunately the item that I purchased was a crimp pin header toolkit.
 It was not the part I needed.
 I will not count this with my purchased items as I won't be needing this as of yet.
 I will be purchasing the socket pin headers sometime this week.
-I am now slightly behind ![schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp) because of this mishap.
+I am now slightly behind [schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp) because of this mishap.
 On a sidenote, I was able to acquire a 40x2 socket pin header, and soldered it on my board.
 
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/PCB%20semi-soldered.jpg?raw=true)  
