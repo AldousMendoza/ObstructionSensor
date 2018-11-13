@@ -1,4 +1,12 @@
-## Week 11 -
+## Week 11 - Power-Up Milestone
+I have received the socket pin headers and soldered them to my board.
+The VL53L0X(ToF) and SSD1306(OLED) are working as intended.
+Next in line is to adjust the code to support numbers and a few letters, and 
+
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/SSD1306%20Reading.jpg?raw=true)  
+VL53L0X - Reading distance and displaying it on the monitor. (in progress: to the OLED)
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/VL53L0X%20Reading.jpg?raw=true)  
+SSD1306 - Adafruit's module has no text support, only able to display pixels using coordinate manipulation. Made code to display the letter 'T'.
 
 
 ### Update
