@@ -1,7 +1,6 @@
 ## Week 12 - [Enclosure Due](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Pi2CaseX6%20-%20Obstruction%20Sensor.cdr)
-I understand not everyone has corel draw, unfortunately, I am not able to open my file and I am unable to take a screencapture of it.
-below is a screenshot of the error I am getting.  
-![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/CorelDraw%20Issue.jpg?raw=true)  
+Screenshot of the parts.
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure%20SS.jpg?raw=true)  
 This is the finished product.  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure.jpg?raw=true)
 
