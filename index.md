@@ -1,5 +1,4 @@
 ## Week 12 - [Enclosure Due](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Pi2CaseX6%20-%20Obstruction%20Sensor.cdr)
-Screenshot of the parts.  <br />
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure%20SS.jpg?raw=true)  
 This is the finished product.  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure.jpg?raw=true)
