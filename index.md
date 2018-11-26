@@ -43,7 +43,7 @@ Programming has already been started, trying to figure out how to change the I2C
 
 ### UPDATE:  
 i2c address table:  
-![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/i2cNEW.jpg?raw=true)  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/i2cNEW.JPG?raw=true)  
 
 Connection has been changed  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/circuit.jpg?raw=true)  
