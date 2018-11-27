@@ -1,3 +1,5 @@
+## Week 13 - [Project Presentation](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor.pptx)
+
 ## Week 12 - [Enclosure Due](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Pi2CaseX6%20-%20Obstruction%20Sensor.cdr)
 Screenshot of the CorelDRAW file.  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure%20SS.jpg?raw=true)  
@@ -85,15 +87,15 @@ If the issue persists after tomorrow, I will purchase a new sensor from Adafruit
 
 ## Week 6 - Holiday
 
-## Week 5 -[Submitted Purchases](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases.docx)  
+## Week 5 -[Purchases](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases.docx)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/4-Digit%207-Segment%20Display.png?raw=true)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Cables.png?raw=true)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/ToF.png?raw=true)
 
-## Week 4 - [Submitted Budget](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Budget.xlsx)
+## Week 4 - [Budget](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Budget.xlsx)
 
-## Week 3 - [Submitted Project Schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp)
+## Week 3 - [Project Schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp)
 
-## Week 2 - [Submitted Project Proposal](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Proposal.xlsx)
+## Week 2 - [Project Proposal](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Proposal.xlsx)
 
 ## Week 1 - Debriefing
