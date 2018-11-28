@@ -1,4 +1,7 @@
 ## Week 13 - [Project Presentation](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor.pptx)
+Updated code to display VL53L0X results to the SSD1306.
+The module I acquired did not support text display, only pixel coordinates.
+Created code to display numbers 1-10 and 'm' in a 5x10 grid.
 
 ## Week 12 - [Enclosure Due](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Pi2CaseX6%20-%20Obstruction%20Sensor.cdr)
 Screenshot of the CorelDRAW file.  
