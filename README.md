@@ -13,14 +13,19 @@ You will be needing the following parts in order to create the obstruction senso
 NOTE: The Socket Pin Headers are optional, depends if you will be building the PCB or not.  
 
 ### Assembly
-Raspberry Pi 2 Pin Layout
-![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/rp2_pinout.png?raw=true)
+Raspberry Pi 2 Pin Layout  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/rp2_pinout.png?raw=true)  
 
-VL53L0X Pin Layout
-![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/VL53L0Xonline.jpg?raw=true)
+VL53L0X Pin Layout  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/VL53L0Xonline.jpg?raw=true)  
 
-SSD1306 Pin Layout
-![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/SSD1306online.jpg?raw=true)
+SSD1306 Pin Layout  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/SSD1306online.jpg?raw=true)  
+
+1. Connect the VL53L0X and SSD1306's VCC pin to the Raspberry Pi's 3v3 pin.
+2. Connect the  VL53L0X and SSD1306's GND pin to any of the Raspberry Pi's GND pin.
+3. Connect the VL53L0X and SSD1306's SDA pin to the Raspberry Pi's SDA pin.
+4. Connect the VL53L0X and SSD1306's SLA pin to the Raspberry Pi's SLA pin.
 
 ### PCB and Soldering
 This is entirely optional, you do not need this for the device to work.  
