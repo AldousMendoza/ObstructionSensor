@@ -47,7 +47,7 @@ And this is how it looks after assembly:
 
 ### Software and Setup
 
-1. Clone and follow the instructions for [VL53L0X](https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X)  
+1. Clone and follow the instructions for [VL53L0X](https://github.com/adafruit/Adafruit_CircuitPython_VL53L0X) from Adafruit   
 2. Clone and follow the instructions for [SSD1306](https://github.com/adafruit/Adafruit_CircuitPython_SSD1306) from Adafruit  
 3. Download all the files in this [folder](https://github.com/AldousMendoza/ObstructionSensor/tree/master/ProjectDocumentation/O-Sensor) to your raspberry pi  
 
