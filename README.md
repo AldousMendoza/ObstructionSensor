@@ -36,7 +36,14 @@ For the PCB, you will need the program, Fritzing.
 This is how the PCB will look like this:  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch_pcb.png?raw=true)  
 
-### Enclosure
+### [Enclosure](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Pi2CaseX6%20-%20Obstruction%20Sensor.cdr)
+This is also optional.
+For the enclosure, we will be using a laser cutter along with the program, CorelDRAW.
+This is how the Enclosure will be:  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure%20SS.jpg?raw=true)  
+
+And this is how it looks after assembly:  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure.jpg?raw=true)  
 
 ### Software
 
