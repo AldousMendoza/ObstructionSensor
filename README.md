@@ -30,8 +30,13 @@ SSD1306 Pin Layout
 Your assembly should look similar to this:  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/circuit.jpg?raw=true)  
 
-### PCB and Soldering
+### [PCB](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch.fzz) and Soldering
 This is entirely optional, you do not need this for the device to work.  
+For the PCB, you will need the program, Fritzing.  
+This is how the PCB will look like this:  
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch_pcb.png?raw=true)  
+
+### Enclosure
 
 ### Software
 
