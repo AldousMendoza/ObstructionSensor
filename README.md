@@ -37,19 +37,18 @@ This is how the PCB will look like this:
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch_pcb.png?raw=true)  
 
 ### [Enclosure](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Pi2CaseX6%20-%20Obstruction%20Sensor.cdr)
-This is also optional.
-For the enclosure, we will be using a laser cutter along with the program, CorelDRAW.
+This is also optional.  
+For the enclosure, we will be using a laser cutter along with the program, CorelDRAW.  
 This is how the Enclosure will be:  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure%20SS.jpg?raw=true)  
 
 And this is how it looks after assembly:  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure.jpg?raw=true)  
 
-### Software
+### Software and Setup
 
-Download all of the files 
-
-### Setup
+Download all the files in this [folder](https://github.com/AldousMendoza/ObstructionSensor/tree/master/ProjectDocumentation/O-Sensor) to your raspberry pi  
+The actual code to run it is the text.py located inside the folder.  
 
 ### [Schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp)
 Having all the parts, and excluding PCB and Enclosure creation times, the project can be made in less than a day.  
