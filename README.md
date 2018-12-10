@@ -16,6 +16,12 @@ NOTE: The Socket Pin Headers are optional, depends if you will be building the P
 Raspberry Pi 2 Pin Layout
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/rp2_pinout.png?raw=true)
 
+VL53L0X Pin Layout
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/VL53L0Xonline.jpg?raw=true)
+
+SSD1306 Pin Layout
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/SSD1306online.jpg?raw=true)
+
 ### PCB and Soldering
 This is entirely optional, you do not need this for the device to work.  
 
