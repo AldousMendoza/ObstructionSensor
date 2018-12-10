@@ -1,15 +1,17 @@
-## Week 13 - [Project Presentation](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor.pptx)
+
+
+## Week 13 - 14 : [Project Presentation](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor.pptx)
 Updated code to display VL53L0X results to the SSD1306.
 The module I acquired did not support text display, only pixel coordinates.
 Created code to display numbers 1-10 and 'm' in a 5x10 grid.
 
-## Week 12 - [Enclosure Due](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Pi2CaseX6%20-%20Obstruction%20Sensor.cdr)
+## Week 12 : [Enclosure Due](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Pi2CaseX6%20-%20Obstruction%20Sensor.cdr)
 Screenshot of the CorelDRAW file.  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure%20SS.jpg?raw=true)  
 This is the finished product.  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Enclosure.jpg?raw=true)
 
-## Week 11 - Power-Up Milestone
+## Week 11 : Power-Up Milestone
 I have received the socket pin headers and soldered them to my board.
 The VL53L0X(ToF) and SSD1306(OLED) are working as intended.
 Next in line is to adjust the code to support numbers and a few letters, then to display the distance calculation on the OLED.  
@@ -24,7 +26,7 @@ VL53L0X - Reading distance and displaying it on the monitor. (in progress: to th
 ### Update
 [Budget](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Budget.xlsx) updated.
 
-## Week 10 - PCB Assembly
+## Week 10 : PCB Assembly
 Unfortunately the item that I purchased was a crimp pin header toolkit.
 It was not the part I needed.
 I will not count this with my purchased items as I won't be needing this as of yet.
@@ -36,7 +38,7 @@ On a sidenote, I was able to acquire a 40x2 socket pin header, and soldered it o
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/f-f%20crimp%20header.jpg?raw=true)  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/m-m%20crimp%20header.jpg?raw=true)
 
-## Week 9 - [PCB Creation](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch.fzz)
+## Week 9 : [PCB Creation](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Obstruction%20Sensor%20PCB%20Sketch.fzz)
 Gerber file has been sent to prototypelab@humber.ca
 
 ### Status Report
@@ -56,7 +58,7 @@ Connection has been changed
 New Display purchased (SSD1306)  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/ssd1306.jpg?raw=true)
 
-## Week 8 - Breadboard
+## Week 8 : Breadboard
 
 ### Resolution
 I dropped by Humber's prototype lab to seek help.
@@ -83,22 +85,22 @@ If the issue persists after tomorrow, I will purchase a new sensor from Adafruit
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/piConnect.jpg?raw=true)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/wholeConnect.jpg?raw=true)
 
-## Week 7 - Purchased Parts
+## Week 7 : Purchased Parts
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Display.jpg?raw=true)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Wires.jpg?raw=true)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/ToF.jpg?raw=true)
 
-## Week 6 - Holiday
+## Week 6 : Holiday
 
-## Week 5 -[Purchases](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases.docx)  
+## Week 5 : [Purchases](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases.docx)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/4-Digit%207-Segment%20Display.png?raw=true)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Cables.png?raw=true)  
 ![Alt text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/ToF.png?raw=true)
 
-## Week 4 - [Budget](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Budget.xlsx)
+## Week 4 : [Budget](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Budget.xlsx)
 
-## Week 3 - [Project Schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp)
+## Week 3 : [Project Schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp)
 
-## Week 2 - [Project Proposal](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Proposal.xlsx)
+## Week 2 : [Project Proposal](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Proposal.xlsx)
 
-## Week 1 - Debriefing
+## Week 1 : Debriefing
