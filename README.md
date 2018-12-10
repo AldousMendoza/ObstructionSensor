@@ -52,6 +52,7 @@ And this is how it looks after assembly:
 3. Download all the files in this [folder](https://github.com/AldousMendoza/ObstructionSensor/tree/master/ProjectDocumentation/O-Sensor) to your raspberry pi  
 
 The actual code to run it is the text.py located inside the folder.  
+Run it using "Python3 test.py".
 
 ### [Schedule](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Project%20Schedule.mpp)
 Having all the parts, and excluding PCB and Enclosure creation times, the project can be made in less than a day.  
