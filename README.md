@@ -1,6 +1,6 @@
 # Obstruction Sensor
 
-This is my first attempt in making a device using a raspberry pi.  
+This is my first attempt in making a device using the raspberry pi.  
 
 ## Build Instructions
 
@@ -10,18 +10,18 @@ UNDER CONSTRUCTION
 ### [Budget and Parts](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Budget.xlsx)
 You will be needing the following parts in order to create the obstruction sensor:  
 ![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/Budget.JPG?raw=true)  
-NOTE: The Socket Pin Headers are optional, depends if you will be building the PCB or not.
-
-
-
-
+NOTE: The Socket Pin Headers are optional, depends if you will be building the PCB or not.  
 
 ### Assembly
+Raspberry Pi 2 Pin Layout
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/rp2_pinout.png?raw=true)
 
 ### PCB and Soldering
 This is entirely optional, you do not need this for the device to work.  
 
-### Programming
+### Software
+
+Download all of the files 
 
 ### Setup
 
