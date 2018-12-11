@@ -1,7 +1,7 @@
 # Obstruction Sensor
 
 This is my first attempt in making a device using the raspberry pi.  
-This project mainly presents the VL53L0X.  
+This project mainly presents the VL53L0X ToF(Time of Flight) Distance Sensor.  
 
 A bit of an introduction on how the VL53L0X works:  
 The VL53L0X emmits a laser towards a direction.
