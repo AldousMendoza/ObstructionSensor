@@ -1,11 +1,17 @@
 # Obstruction Sensor
 
 This is my first attempt in making a device using the raspberry pi.  
+This project mainly presents the VL53L0X.  
+
+A bit of an introduction on how the VL53L0X works:  
+The VL53L0X emmits a laser towards a direction.
+It then calculates for the distance based on how long the laser bounces back.
 
 ## Build Instructions
 
 ### System Diagram
-UNDER CONSTRUCTION  
+The VL53L0X continously reads data(distance) while the SSD1306 continously displays that data.
+![Alt_text](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Purchases/UML.JPG?raw=true)  
 
 ### [Budget and Parts](https://github.com/AldousMendoza/ObstructionSensor/blob/master/ProjectDocumentation/Budget.xlsx)
 You will be needing the following parts in order to create the obstruction sensor:  
